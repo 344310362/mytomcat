@@ -17,7 +17,9 @@ import java.util.Set;
 */
 public class MyTomcat {
     public static void main(String[] args){
-        new MyTomcat().start();
+        MyTomcat tomcat = new MyTomcat();
+        tomcat.init();
+        tomcat.start();
     }
     //第一步： 定义变量，用于存储相关的内容
     private static final int port = 8099;
