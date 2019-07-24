@@ -34,7 +34,7 @@
 ### tomcat 版本介绍
 > 点击下图进入官网
 
-[![tomcat 版本介绍](img/tomcat-version.png)](https://www.oracle.com/technetwork/java/javaee/tech/index.html)
+[![tomcat 版本介绍](./img/tomcat-version.png)](https://www.oracle.com/technetwork/java/javaee/tech/index.html)
 
 ### java代码如何与tomcat合作
 
@@ -44,11 +44,11 @@
 
 ### 网络原理
 
-![image](img/network.jpg)
+![image](./img/network.jpg)
 
 ### tomcat 核心模块
 
-![image](img/tomcat-struct.png)
+![image](./img/tomcat-struct.png)
 
 - server: tomcat实例
 - Service: connector和container的逻辑分组
@@ -57,7 +57,7 @@
 
 ### tomcat 请求流程
 
-![image](img/tomcat-request.png)
+![image](./img/tomcat-request.png)
 
 ### web.xml
 
