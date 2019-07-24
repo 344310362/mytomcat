@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mytomcat" />
+        <module name="com.imook.mytomcat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mytomcat" target="1.5" />
+      <module name="com.imook.mytomcat" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

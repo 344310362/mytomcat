@@ -27,6 +27,7 @@ target/
 *.properties~
 *.xml~
 .svn/
+.idea/
 
 # system ignore
 .DS_Store
