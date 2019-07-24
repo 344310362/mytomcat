@@ -28,6 +28,7 @@ target/
 *.xml~
 .svn/
 .idea/
+*.iml
 
 # system ignore
 .DS_Store
